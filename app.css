@@ -1,0 +1,40 @@
+h1{
+    width: 142px;
+height: 3px;
+left: 200px;
+top: 29px;
+
+background: #6E29A9;
+}
+
+
+h2{
+    width: 795px;
+height: 75px;
+left: 375px;
+top: 205px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+
+color: #8200FF;
+}
+
+
+h3{
+    width: 596px;
+height: 56px;
+left: 197px;
+top: 704px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+
+color: #1B314F;
+}
