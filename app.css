@@ -97,3 +97,22 @@ top: 354px;
     cursor: pointer;
     border-radius: 5px;
 }
+
+h4{
+    width: 447px;
+height: 42px;
+left: 197px;
+top: 1023px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+
+color: #523E97;
+}
+
+p{
+    border:  #1B314F;
+}
