@@ -116,3 +116,36 @@ color: #523E97;
 p{
     border:  #1B314F;
 }
+
+.pagina.rectang{
+    width: 1512px;
+height: 189px;
+left: 0px;
+top: 1328px;
+
+background: #1B314F;
+}
+
+.pagina.rectang.texto{
+    width: 245px;
+height: 40px;
+left: 1070px;
+top: 1404px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+
+color: #6E29A9;
+
+
+color: #FFFFFF;
+
+}
